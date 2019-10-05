@@ -53,7 +53,7 @@ BOOTSTRAPIFY = {
 DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'sitemap']
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
-SITEIMAGE = '/images/logo-3.jpg'
+# SITEIMAGE = '/images/logo-3.jpg'
 # PYGMENTS_STYLE = 'default'
 PYGMENTS_STYLE = 'monokai'
 RFG_FAVICONS = True
