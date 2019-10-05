@@ -2,9 +2,14 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+THEME = 'themes/pelican-alchemy/alchemy'
+
 AUTHOR = 'Annanda Sousa'
-SITENAME = "Annanda Sousa"
+SITENAME = 'Annanda Sousa'
+SITESUBTITLE = ''
 SITEURL = ''
+DESCRIPTION = SITESUBTITLE
+
 
 PATH = 'content'
 STATIC_PATHS = ['images']
@@ -12,6 +17,7 @@ STATIC_PATHS = ['images']
 TIMEZONE = 'Europe/Dublin'
 
 DEFAULT_LANG = 'en'
+
 TYPOGRIFY = True
 
 # Feed generation is usually not desired when developing
@@ -33,5 +39,21 @@ AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = 10
 
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['bootstrapify']
+
+BOOTSTRAPIFY = {
+    'table': ['table', 'table-striped', 'table-hover'],
+    'img': ['img-fluid'],
+    'blockquote': ['blockquote'],
+}
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'sitemap']
+SITEMAP_SAVE_AS = 'sitemap.xml'
+
+SITEIMAGE = '/images/logo-3.jpg'
+# PYGMENTS_STYLE = 'default'
+PYGMENTS_STYLE = 'monokai'
+RFG_FAVICONS = True
