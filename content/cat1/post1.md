@@ -4,6 +4,7 @@ Category: misc
 Tags: touch, sensory, sensivity
 Slug: touch-sensitivity
 Authors: Annanda Sousa
+Status: draft
 
 Hello!
 I cannot believe I am finally back on blogging! I've been wanting to come back for some time now, but I could not find the time to create my blog again. For the first post of this new blog, I will re-post a reviewed version of one of my last posts from my previous blog, it is about how I deal with touch.
