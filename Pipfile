@@ -10,7 +10,7 @@ ipdb = "*"
 pelican = "==4.1.2"
 markdown = "==3.1.1"
 beautifulsoup4 = "==4.8.0"
-lxml = "==4.4.1"
+lxml = "==4.6.2"
 ghp-import = "==0.5.5"
 typogrify = "==2.0.7"
 
