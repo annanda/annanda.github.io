@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Annanda</title>
-    <link>https://annanda.github.io/pt-br/</link>
-    <description>Recent content on Annanda</description>
+    <title>Cultivez-vous sur ce qui compte pour vous. on Annanda</title>
+    <link>https://annanda.github.io/pt-br/blog/</link>
+    <description>Recent content in Cultivez-vous sur ce qui compte pour vous. on Annanda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://annanda.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://annanda.github.io/pt-br/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recette du Krabby Patty</title>
       <link>https://annanda.github.io/pt-br/blog/krabby_patty/</link>

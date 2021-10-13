@@ -1,22 +1,82 @@
-<?xml-stylesheet type="text/xsl" href="https://annanda.github.io/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://annanda.github.io/pt-br/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://annanda.github.io/pt-br/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://annanda.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://annanda.github.io/pt-br/"
+                />
+  </url><url>
+    <loc>https://annanda.github.io/pt-br/blog/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://annanda.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://annanda.github.io/pt-br/blog/"
+                />
+  </url><url>
+    <loc>https://annanda.github.io/pt-br/blog/krabby_patty/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://annanda.github.io/blog/krabby_patty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://annanda.github.io/pt-br/blog/krabby_patty/"
+                />
+  </url><url>
+    <loc>https://annanda.github.io/pt-br/tags/recipe/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://annanda.github.io/tags/recipe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://annanda.github.io/pt-br/tags/recipe/"
+                />
+  </url><url>
     <loc>https://annanda.github.io/pt-br/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://annanda.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://annanda.github.io/pt-br/tags/"
+                />
+  </url><url>
+    <loc>https://annanda.github.io/pt-br/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://annanda.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://annanda.github.io/pt-br/categories/"
+                />
   </url>
-  
 </urlset>
