@@ -1,89 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Annanda</title>
-    <link>https://annanda.github.io/pt-br/</link>
-    <description>Recent content on Annanda</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://annanda.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Entre em contato</title>
-      <link>https://annanda.github.io/pt-br/contact/</link>
-      <pubDate>Thu, 14 Oct 2021 15:04:48 +0100</pubDate>
-      
-      <guid>https://annanda.github.io/pt-br/contact/</guid>
-      
-        <description>&lt;p&gt;Você pode me escrever no email abaixo, vou ficar feliz de saber de você.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;annanda.sousa at gmail.com&lt;/em&gt;&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>O que eu ando fazendo</title>
-      <link>https://annanda.github.io/pt-br/now/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://annanda.github.io/pt-br/now/</guid>
-      
-        <description>&lt;p&gt;Aqui você encontra sobre os projetos que estou envolvida atualmente (Terça, 14 de Outubro de 2021).&lt;/p&gt;
-&lt;h1 id=&#34;no-phd&#34;&gt;No PhD&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Escrevendo o capítulo de Trabalhos Relacionados da minha tese.&lt;/li&gt;
-&lt;li&gt;Recrutando participantes e fazendo sessões de estudo para coletar dados para minha pesquisa.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;resto-da-minha-vida&#34;&gt;Resto da minha vida&lt;/h1&gt;
-&lt;p&gt;(Quando você está fazendo um doutorado é assim que você passa a classificar sua vida: coisas do PhD vs. todo o resto)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Foco atual de desenvolvimento pessoal&lt;/strong&gt;: Ser constante com alimentação e hábitos de auto-cuidado.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Leituras do momento&lt;/strong&gt;: &lt;a href=&#34;https://www.theblissbean.com/book&#34;&gt;Plan and organize your life&lt;/a&gt; da Beatrice Naujalyte e &lt;a href=&#34;https://www.amazon.com/M%C3%A3es-arrependidas-Portuguese-Orna-Donath-ebook/dp/B07BJ883MG/&#34;&gt;Mães arrependidas&lt;/a&gt; da Orna Donath.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Alguns tópicos de estudo que estou atualmente interessada&lt;/strong&gt;: estilo de vida Ayurvédico (alimentação e hábitos), desenvolvimento de apps para iPhone/Apple Watch, fotografia usando iPhone, desenvolvimento de jogos usando Unreal Engine.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Jogo que estou mais jogando&lt;/strong&gt;: Animal Crossing: New Horizons.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Playlist Favorita&lt;/strong&gt;: &lt;a href=&#34;https://open.spotify.com/playlist/0vM6vvhenAbcfXX0W6ck0U?si=1L8-OYvfRSOoETJaNeGJsw&#34;&gt;Korean to repeat always&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Atual obsessão&lt;/strong&gt;: Assistir vídeos no Youtube unboxing de iPhone 13 pro. Eu acho que já vi todos os vídeos desse tipo que existem, que Deus me ajude!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;A ideia dessa página foi inspirada pelo site do &lt;a href=&#34;https://copingmechanism.com/now/&#34;&gt;Jack Baty&amp;rsquo;s&lt;/a&gt;.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Sobre Mim</title>
-      <link>https://annanda.github.io/pt-br/about/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://annanda.github.io/pt-br/about/</guid>
-      
-        <description>&lt;p&gt;Olá, meu nome é Annanda. Eu nasci no nordeste do Brasil (Maranhão) e morei muitos anos no Rio de Janeiro.&lt;/p&gt;
-&lt;p&gt;Foi meu pai que escolheu meu nome, e ele significa &lt;em&gt;bliss&lt;/em&gt; (pode ser traduzido como &lt;em&gt;enlevo&lt;/em&gt;): &amp;ldquo;profunda felicidade,
-grande alegria&amp;rdquo;. Quem me conhece pessoalmente vai concordar que eu tenho tudo a ver com o meu nome, eu amo sorrir.&lt;/p&gt;
-&lt;p&gt;Eu sou formada em Ciência da Computação pela UFRJ - esse é o meu maior orgulho até o momento!&lt;/p&gt;
-&lt;p&gt;Atualmente estou fazendo doutorado na NUI Galway, na Irlanda. Na minha pesquisa, eu estou estudando como criar um modelo
-multimodal de computador para automaticamente identificar emoções de crianças com autismo.&lt;/p&gt;
-&lt;p&gt;Meu primeiro contato com algum tipo de código de computador foi com HTML, lá em 2001. Lá por 2010, eu fiz diversos curso
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Annanda</title><link>https://annanda.github.io/pt-br/</link><description>Recent content on Annanda</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://annanda.github.io/pt-br/index.xml" rel="self" type="application/rss+xml"/><item><title>Entre em contato</title><link>https://annanda.github.io/pt-br/contact/</link><pubDate>Thu, 14 Oct 2021 15:04:48 +0100</pubDate><guid>https://annanda.github.io/pt-br/contact/</guid><description>&lt;p>Você pode me escrever no email abaixo, vou ficar feliz de saber de você.&lt;/p>
+&lt;p>&lt;em>annanda.sousa at gmail.com&lt;/em>&lt;/p></description></item><item><title>O que eu ando fazendo</title><link>https://annanda.github.io/pt-br/now/</link><pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate><guid>https://annanda.github.io/pt-br/now/</guid><description>&lt;p>Aqui você encontra sobre os projetos que estou envolvida atualmente (Terça, 14 de Outubro de 2021).&lt;/p>
+&lt;h1 id="no-phd">No PhD&lt;/h1>
+&lt;ul>
+&lt;li>Escrevendo o capítulo de Trabalhos Relacionados da minha tese.&lt;/li>
+&lt;li>Recrutando participantes e fazendo sessões de estudo para coletar dados para minha pesquisa.&lt;/li>
+&lt;/ul>
+&lt;h1 id="resto-da-minha-vida">Resto da minha vida&lt;/h1>
+&lt;p>(Quando você está fazendo um doutorado é assim que você passa a classificar sua vida: coisas do PhD vs. todo o resto)&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Foco atual de desenvolvimento pessoal&lt;/strong>: Ser constante com alimentação e hábitos de auto-cuidado.&lt;/li>
+&lt;li>&lt;strong>Leituras do momento&lt;/strong>: &lt;a href="https://www.theblissbean.com/book">Plan and organize your life&lt;/a> da Beatrice Naujalyte e &lt;a href="https://www.amazon.com/M%C3%A3es-arrependidas-Portuguese-Orna-Donath-ebook/dp/B07BJ883MG/">Mães arrependidas&lt;/a> da Orna Donath.&lt;/li>
+&lt;li>&lt;strong>Alguns tópicos de estudo que estou atualmente interessada&lt;/strong>: estilo de vida Ayurvédico (alimentação e hábitos), desenvolvimento de apps para iPhone/Apple Watch, fotografia usando iPhone, desenvolvimento de jogos usando Unreal Engine.&lt;/li>
+&lt;li>&lt;strong>Jogo que estou mais jogando&lt;/strong>: Animal Crossing: New Horizons.&lt;/li>
+&lt;li>&lt;strong>Playlist Favorita&lt;/strong>: &lt;a href="https://open.spotify.com/playlist/0vM6vvhenAbcfXX0W6ck0U?si=1L8-OYvfRSOoETJaNeGJsw">Korean to repeat always&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Atual obsessão&lt;/strong>: Assistir vídeos no Youtube unboxing de iPhone 13 pro. Eu acho que já vi todos os vídeos desse tipo que existem, que Deus me ajude!&lt;/li>
+&lt;/ul>
+&lt;p>A ideia dessa página foi inspirada pelo site do &lt;a href="https://copingmechanism.com/now/">Jack Baty&amp;rsquo;s&lt;/a>.&lt;/p></description></item><item><title>Sobre Mim</title><link>https://annanda.github.io/pt-br/about/</link><pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate><guid>https://annanda.github.io/pt-br/about/</guid><description>&lt;p>Olá, meu nome é Annanda. Eu nasci no nordeste do Brasil (Maranhão) e morei muitos anos no Rio de Janeiro.&lt;/p>
+&lt;p>Foi meu pai que escolheu meu nome, e ele significa &lt;em>bliss&lt;/em> (pode ser traduzido como &lt;em>enlevo&lt;/em>): &amp;ldquo;profunda felicidade,
+grande alegria&amp;rdquo;. Quem me conhece pessoalmente vai concordar que eu tenho tudo a ver com o meu nome, eu amo sorrir.&lt;/p>
+&lt;p>Eu sou formada em Ciência da Computação pela UFRJ - esse é o meu maior orgulho até o momento!&lt;/p>
+&lt;p>Atualmente estou fazendo doutorado na NUI Galway, na Irlanda. Na minha pesquisa, eu estou estudando como criar um modelo
+multimodal de computador para automaticamente identificar emoções de crianças com autismo.&lt;/p>
+&lt;p>Meu primeiro contato com algum tipo de código de computador foi com HTML, lá em 2001. Lá por 2010, eu fiz diversos curso
 de HTML, CSS, Javascript e PHP (nessa época eu fiz muitos sites usando Wordpress). Eu programo em Python desde 2014.
 Durante algum tempo eu fui muito ativa na comunidade brasileira de Python: eu organisei workshops de Python e Django,
-apresentei em eventos, fui em várias Python Brasil e outros eventos locais. Eu fui uma das fundadoras do Pyladies Rio em 2015. E eu até cheguei a ser parte do board da Associação Python Brasil - isso tudo foi antes de começar meu PhD.&lt;/p&gt;
-&lt;p&gt;Durante meus tempos de faculdade, eu fui estagiária em duas empresas diferentes. Na primeira eu trabalhei com
+apresentei em eventos, fui em várias Python Brasil e outros eventos locais. Eu fui uma das fundadoras do Pyladies Rio em 2015. E eu até cheguei a ser parte do board da Associação Python Brasil - isso tudo foi antes de começar meu PhD.&lt;/p>
+&lt;p>Durante meus tempos de faculdade, eu fui estagiária em duas empresas diferentes. Na primeira eu trabalhei com
 desenvolvimento web em Java, e desenvolvimento com Ruby on Rails. Eu também lidei diretamente com clientes. Na segunda
 empresa, eu trabalhei com escrita técnica e Javascript. Depois disso eu fui estagiária em um centro de pesquisa,
 trabalhando em um projeto de pesquisa europeu. Foi então que me apaixonei por pesquisa e decidi fazer o doutorado.
 Durante esse estágio eu trabalhei com IA, aprendizado de máquina, processamento de linguagem natural. Também fiz parte
-da escrita de papers e relatórios de pesquisa. Nesse projeto eu tive os melhores colegas de trabalho do mundo!&lt;/p&gt;
-&lt;p&gt;Sou casada com o &lt;a href=&#34;https://arruda.blog.br/&#34;&gt;Felipe&lt;/a&gt;, nós estamos juntos há mais de dez anos! Ele é a minha pessoa
-favorita no mundo.&lt;/p&gt;
-&lt;p&gt;Aqui nesse blog, eu escrevo um pouco sobre tudo o que eu amo: livros, tecnologia, programação, organização,
+da escrita de papers e relatórios de pesquisa. Nesse projeto eu tive os melhores colegas de trabalho do mundo!&lt;/p>
+&lt;p>Sou casada com o &lt;a href="https://arruda.blog.br/">Felipe&lt;/a>, nós estamos juntos há mais de dez anos! Ele é a minha pessoa
+favorita no mundo.&lt;/p>
+&lt;p>Aqui nesse blog, eu escrevo um pouco sobre tudo o que eu amo: livros, tecnologia, programação, organização,
 produtividade, fotografia e obsessões aleatórias que eu possa ter no momento. Eu sempre tenho ao menos uma obsessão
-ativa.&lt;/p&gt;
-&lt;p&gt;Para ler sobre o que eu ando fazendo, vá &lt;a href=&#34;https://annanda.github.io/pt-br/now&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+ativa.&lt;/p>
+&lt;p>Para ler sobre o que eu ando fazendo, vá &lt;a href="https://annanda.github.io/pt-br/now">aqui&lt;/a>.&lt;/p></description></item></channel></rss>

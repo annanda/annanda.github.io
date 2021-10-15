@@ -1,80 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Annanda</title>
-    <link>https://annanda.github.io/</link>
-    <description>Recent content on Annanda</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://annanda.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Contact me</title>
-      <link>https://annanda.github.io/contact/</link>
-      <pubDate>Thu, 14 Oct 2021 15:04:48 +0100</pubDate>
-      
-      <guid>https://annanda.github.io/contact/</guid>
-      
-        <description>&lt;p&gt;You can email me, I&amp;rsquo;ll be happy to hear from you.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;annanda.sousa at gmail.com&lt;/em&gt;&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://annanda.github.io/about/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://annanda.github.io/about/</guid>
-      
-        <description>&lt;p&gt;Hello, my name is Annanda. I was born in the Northeast of Brazil (Maranhão), and I lived for many years in Rio de Janeiro.&lt;/p&gt;
-&lt;p&gt;My father chose my name, and it means &lt;em&gt;bliss&lt;/em&gt;: &amp;ldquo;perfect happiness, great joy&amp;rdquo;.  Who knows me in person will agree that my name&amp;rsquo;s meaning describes me very well. I love to smile.&lt;/p&gt;
-&lt;p&gt;I have a degree in Computer Science from the Federal University of Rio de Janeiro (UFRJ) - the achievement I&amp;rsquo;m proudest of until this day.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m currently a PhD candidate at NUI Galway in Ireland. In my research, I&amp;rsquo;m investigating how to create a multimodal emotion detection system for children with autism.  You can see my publications here.&lt;/p&gt;
-&lt;p&gt;My first contact with any kind of computer coding was with HTML, around the year 2001.&lt;br&gt;
-Around 2010, I enrolled in some courses in HTML, CSS, Javascript and PHP. On that time I did a lot of websites using Wordpress.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve been programming using Python since 2014.
-During some time, I was very active in the Brazillian Python community: I organised Python and Django workshops, I delivered presentations, I attended several Python Con Brazil and other local Python events. And I was a co-founder of Pyladies Rio back in 2015. I was also part of the Brazilian Python Association&amp;rsquo;s board (Associação Python Brasil) - that was before starting my PhD.&lt;/p&gt;
-&lt;p&gt;During my college times, I was an intern in two different industry companies. In the first one, I had an experience with Java web development, dealing with clients, and Ruby web development. During the second one, I had an experience with technical writing and Javascript development.
-After that, I was an intern in a research centre, working on a European research project.  That&amp;rsquo;s when I fell in love with research and decided to pursue a PhD degree. There, I worked with AI, machine learning and natural language processing. I was also involved in academic writing (paper and report writing), and I had the most amazing coworkers.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m married to &lt;a href=&#34;https://arruda.blog.br/&#34;&gt;Felipe&lt;/a&gt;, we are together for more than ten years now! He is my favorite human being.&lt;/p&gt;
-&lt;p&gt;In this blog, I write a bit about everything that I love: books, technology, programming, organising, productivity, photography and any other random obsession I might be hooked into at the moment. I always have at least one active obsession.&lt;/p&gt;
-&lt;p&gt;To check what I&amp;rsquo;m doing now, please go to my &lt;a href=&#34;https://annanda.github.io/now&#34;&gt;Now&lt;/a&gt; page.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>What I&#39;m doing now</title>
-      <link>https://annanda.github.io/now/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://annanda.github.io/now/</guid>
-      
-        <description>&lt;p&gt;On this page, you can find projects I&amp;rsquo;m involved with as of Thursday, 14th October 2021.&lt;/p&gt;
-&lt;h1 id=&#34;on-my-phd&#34;&gt;On my PhD&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Writing the Background chapter of my thesis.&lt;/li&gt;
-&lt;li&gt;Recruiting and running study sessions with participants - for data collection.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;rest-of-my-life&#34;&gt;Rest of my life&lt;/h1&gt;
-&lt;p&gt;(When you&amp;rsquo;re doing a PhD that&amp;rsquo;s how you classify your life: PhD and the rest)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Current self-improvement focus&lt;/strong&gt;: Being consistent with a healthy diet and self-care habits.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Current books&lt;/strong&gt;: &lt;a href=&#34;https://www.theblissbean.com/book&#34;&gt;Plan and organize your life&lt;/a&gt; by Beatrice Naujalyte and &lt;a href=&#34;https://www.amazon.com/M%C3%A3es-arrependidas-Portuguese-Orna-Donath-ebook/dp/B07BJ883MG/&#34;&gt;Mães arrependidas&lt;/a&gt; by Orna Donath.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Some study topics I&amp;rsquo;m currently interested in are&lt;/strong&gt;: Ayurvedic lifestyle (diet and habits), iPhone/Apple Watch app development, iPhone Photography, Unreal engine game development.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Game I&amp;rsquo;m playing the most&lt;/strong&gt;: Animal Crossing: New Horizons.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Favorite Playlist&lt;/strong&gt;: &lt;a href=&#34;https://open.spotify.com/playlist/0vM6vvhenAbcfXX0W6ck0U?si=1L8-OYvfRSOoETJaNeGJsw&#34;&gt;Korean to repeat always&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Current active obsession&lt;/strong&gt;: Watching iPhone 13 pro unboxing videos on Youtube. I must have seen all the videos of this kind there is to watch. May God help me!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I got the idea of this page on &lt;a href=&#34;https://copingmechanism.com/now/&#34;&gt;Jack Baty&amp;rsquo;s&lt;/a&gt; website.&lt;/p&gt;
-</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Annanda</title><link>https://annanda.github.io/</link><description>Recent content on Annanda</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://annanda.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact me</title><link>https://annanda.github.io/contact/</link><pubDate>Thu, 14 Oct 2021 15:04:48 +0100</pubDate><guid>https://annanda.github.io/contact/</guid><description>&lt;p>You can email me, I&amp;rsquo;ll be happy to hear from you.&lt;/p>
+&lt;p>&lt;em>annanda.sousa at gmail.com&lt;/em>&lt;/p></description></item><item><title>About</title><link>https://annanda.github.io/about/</link><pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate><guid>https://annanda.github.io/about/</guid><description>&lt;p>Hello, my name is Annanda. I was born in the Northeast of Brazil (Maranhão), and I lived for many years in Rio de Janeiro.&lt;/p>
+&lt;p>My father chose my name, and it means &lt;em>bliss&lt;/em>: &amp;ldquo;perfect happiness, great joy&amp;rdquo;. Who knows me in person will agree that my name&amp;rsquo;s meaning describes me very well. I love to smile.&lt;/p>
+&lt;p>I have a degree in Computer Science from the Federal University of Rio de Janeiro (UFRJ) - the achievement I&amp;rsquo;m proudest of until this day.&lt;/p>
+&lt;p>I&amp;rsquo;m currently a PhD candidate at NUI Galway in Ireland. In my research, I&amp;rsquo;m investigating how to create a multimodal emotion detection system for children with autism. You can see my publications here.&lt;/p>
+&lt;p>My first contact with any kind of computer coding was with HTML, around the year 2001.&lt;br>
+Around 2010, I enrolled in some courses in HTML, CSS, Javascript and PHP. On that time I did a lot of websites using Wordpress.&lt;/p>
+&lt;p>I&amp;rsquo;ve been programming using Python since 2014.
+During some time, I was very active in the Brazillian Python community: I organised Python and Django workshops, I delivered presentations, I attended several Python Con Brazil and other local Python events. And I was a co-founder of Pyladies Rio back in 2015. I was also part of the Brazilian Python Association&amp;rsquo;s board (Associação Python Brasil) - that was before starting my PhD.&lt;/p>
+&lt;p>During my college times, I was an intern in two different industry companies. In the first one, I had an experience with Java web development, dealing with clients, and Ruby web development. During the second one, I had an experience with technical writing and Javascript development.
+After that, I was an intern in a research centre, working on a European research project. That&amp;rsquo;s when I fell in love with research and decided to pursue a PhD degree. There, I worked with AI, machine learning and natural language processing. I was also involved in academic writing (paper and report writing), and I had the most amazing coworkers.&lt;/p>
+&lt;p>I&amp;rsquo;m married to &lt;a href="https://arruda.blog.br/">Felipe&lt;/a>, we are together for more than ten years now! He is my favorite human being.&lt;/p>
+&lt;p>In this blog, I write a bit about everything that I love: books, technology, programming, organising, productivity, photography and any other random obsession I might be hooked into at the moment. I always have at least one active obsession.&lt;/p>
+&lt;p>To check what I&amp;rsquo;m doing now, please go to my &lt;a href="https://annanda.github.io/now">Now&lt;/a> page.&lt;/p></description></item><item><title>What I'm doing now</title><link>https://annanda.github.io/now/</link><pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate><guid>https://annanda.github.io/now/</guid><description>&lt;p>On this page, you can find projects I&amp;rsquo;m involved with as of Thursday, 14th October 2021.&lt;/p>
+&lt;h1 id="on-my-phd">On my PhD&lt;/h1>
+&lt;ul>
+&lt;li>Writing the Background chapter of my thesis.&lt;/li>
+&lt;li>Recruiting and running study sessions with participants - for data collection.&lt;/li>
+&lt;/ul>
+&lt;h1 id="rest-of-my-life">Rest of my life&lt;/h1>
+&lt;p>(When you&amp;rsquo;re doing a PhD that&amp;rsquo;s how you classify your life: PhD and the rest)&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Current self-improvement focus&lt;/strong>: Being consistent with a healthy diet and self-care habits.&lt;/li>
+&lt;li>&lt;strong>Current books&lt;/strong>: &lt;a href="https://www.theblissbean.com/book">Plan and organize your life&lt;/a> by Beatrice Naujalyte and &lt;a href="https://www.amazon.com/M%C3%A3es-arrependidas-Portuguese-Orna-Donath-ebook/dp/B07BJ883MG/">Mães arrependidas&lt;/a> by Orna Donath.&lt;/li>
+&lt;li>&lt;strong>Some study topics I&amp;rsquo;m currently interested in are&lt;/strong>: Ayurvedic lifestyle (diet and habits), iPhone/Apple Watch app development, iPhone Photography, Unreal engine game development.&lt;/li>
+&lt;li>&lt;strong>Game I&amp;rsquo;m playing the most&lt;/strong>: Animal Crossing: New Horizons.&lt;/li>
+&lt;li>&lt;strong>Favorite Playlist&lt;/strong>: &lt;a href="https://open.spotify.com/playlist/0vM6vvhenAbcfXX0W6ck0U?si=1L8-OYvfRSOoETJaNeGJsw">Korean to repeat always&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Current active obsession&lt;/strong>: Watching iPhone 13 pro unboxing videos on Youtube. I must have seen all the videos of this kind there is to watch. May God help me!&lt;/li>
+&lt;/ul>
+&lt;p>I got the idea of this page on &lt;a href="https://copingmechanism.com/now/">Jack Baty&amp;rsquo;s&lt;/a> website.&lt;/p></description></item></channel></rss>

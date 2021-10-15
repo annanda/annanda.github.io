@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>about on Annanda</title>
-    <link>https://annanda.github.io/pt-br/tags/about/</link>
-    <description>Recent content in about on Annanda</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://annanda.github.io/pt-br/tags/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>O que eu ando fazendo</title>
-      <link>https://annanda.github.io/pt-br/now/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://annanda.github.io/pt-br/now/</guid>
-      <description>Aqui você encontra sobre os projetos que estou envolvida atualmente (Terça, 14 de Outubro de 2021).
-No PhD  Escrevendo o capítulo de Trabalhos Relacionados da minha tese. Recrutando participantes e fazendo sessões de estudo para coletar dados para minha pesquisa.  Resto da minha vida (Quando você está fazendo um doutorado é assim que você passa a classificar sua vida: coisas do PhD vs. todo o resto)
- Foco atual de desenvolvimento pessoal: Ser constante com alimentação e hábitos de auto-cuidado.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>about on Annanda</title><link>https://annanda.github.io/pt-br/tags/about/</link><description>Recent content in about on Annanda</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://annanda.github.io/pt-br/tags/about/index.xml" rel="self" type="application/rss+xml"/><item><title>O que eu ando fazendo</title><link>https://annanda.github.io/pt-br/now/</link><pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate><guid>https://annanda.github.io/pt-br/now/</guid><description>Aqui você encontra sobre os projetos que estou envolvida atualmente (Terça, 14 de Outubro de 2021).
+No PhD Escrevendo o capítulo de Trabalhos Relacionados da minha tese. Recrutando participantes e fazendo sessões de estudo para coletar dados para minha pesquisa. Resto da minha vida (Quando você está fazendo um doutorado é assim que você passa a classificar sua vida: coisas do PhD vs. todo o resto)
+Foco atual de desenvolvimento pessoal: Ser constante com alimentação e hábitos de auto-cuidado.</description></item></channel></rss>
